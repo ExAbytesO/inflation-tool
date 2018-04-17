@@ -14,7 +14,7 @@ import java.util.TreeMap;
 /**
  *
  * @author LT EORexton
- * @version 1.2
+ * @version 1.3
  */
 public class Menu extends javax.swing.JFrame {
 
